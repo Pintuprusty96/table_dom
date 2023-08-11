@@ -33,4 +33,4 @@ The **Student Grade Tracker** is a basic web application built with HTML, CSS, a
 1. Clone the repository using the following command:
 
    ```sh
-   git clone https:
+   git clone https:https://github.com/Pintuprusty96/table_dom.git
